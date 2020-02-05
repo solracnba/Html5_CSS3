@@ -18,3 +18,9 @@ Atualizado Interface e cabeçalho
 <h3>02/02/2020</h3>
 
 Aprendendo a importar fontes externas para o projeto.
+
+<h3>04/02/2020</h3>
+
+Feito a divisão da interface com as tags <b> section</b>, <b>aside</b> e <b>footer</b>
+
+
